@@ -1,0 +1,21 @@
+{
+  "name": "@types/wallpaper-engine",
+  "version": "1.0.0",
+  "description": "WallpaperEngine TypeScirpt types",
+  "main": "",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuwacom/WallpaperEngine-Types.git"
+  },
+  "keywords": [
+    "wallpaper",
+    "engine"
+  ],
+  "author": "kuwa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuwacom/WallpaperEngine-Types/issues"
+  },
+  "homepage": "https://github.com/kuwacom/WallpaperEngine-Types#readme"
+}
