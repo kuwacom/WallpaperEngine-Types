@@ -1,5 +1,5 @@
 {
-  "name": "@types/wallpaper-engine",
+  "name": "@kuwa/wallpaper-engine-types",
   "version": "1.0.0",
   "description": "WallpaperEngine TypeScirpt types",
   "main": "",
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/kuwacom/WallpaperEngine-Types/issues"
   },
-  "homepage": "https://github.com/kuwacom/WallpaperEngine-Types#readme"
+  "homepage": "https://github.com/kuwacom/WallpaperEngine-Types#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
